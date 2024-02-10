@@ -1,7 +1,5 @@
 # MockScript-WebApp
 
-RIP job interviewers!😯
-
 🚀 Just Launched : An #interview preparation #webApplication we named it as - "MockScript" ! 🎉
 
 I am delighted to announce the successful completion of Domain specific #mini_project (semester 6) which I had the privilege to #work! 🌐✨
