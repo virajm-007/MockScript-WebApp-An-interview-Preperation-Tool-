@@ -14,5 +14,5 @@ I am delighted to announce the successful completion of Domain specific #mini_pr
 Live Demo: https://drive.google.com/file/d/1WrOACA_mDUxOft0e7sc8zjv7nQQkEA2P/view
 
 #Scope -  
-1. #Education: A mock interview system can help students practice their interview skills and gain confidence. It can also help them understand what kind of questions they might face during an interview and prepare accordingly. 👨‍🎓👩‍🎓
+1. #Education: A mock interview system can help students practice their interview skills and gain confidence.It can also help them understand what kind of questions they might face during an interview and prepare accordingly. 👨‍🎓👩‍🎓
 2. #Recruitment: A mock interview system can assist job seekers in preparing for their job interviews. It can provide them with a simulated interview experience that mimics the actual interview, which can help them improve their communication skills and prepare for the interview process.👨‍💼👩‍💼
