@@ -4,9 +4,6 @@
 
 ## Project Overview
 
-[Watch the Project Video](https://drive.google.com/file/d/1WrOACA_mDUxOft0e7sc8zjv7nQQkEA2P/view)
-
-
 
 I am delighted to announce the successful completion of Domain specific #mini_project (semester 6) which I had the privilege to #work! 🌐
 
