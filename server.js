@@ -20,7 +20,7 @@ app.use(cors());
 app.get('/login',(req,res)=>{
    res.render('login')
 })
-// sdf0
+// sdf
 app.get('',(req,res)=>{
     res.render('home');
 })
