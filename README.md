@@ -2,6 +2,12 @@
 
 <!-- 🚀 An #interview preparation #webApplication we named it as - "MockScript" ! 🎉 -->
 
+## Project Overview
+
+[Watch the Project Video](https://drive.google.com/file/d/1WrOACA_mDUxOft0e7sc8zjv7nQQkEA2P/view)
+
+
+
 I am delighted to announce the successful completion of Domain specific #mini_project (semester 6) which I had the privilege to #work! 🌐
 
 #Problem_Identification - MockScript aims to address the common problem that many job seekers face that is lack of experience and confidence in interviewing. Often, job seekers may have the necessary qualifications but struggle to articulate their strengths and effectively answer interview question. 👨‍💼👨‍💼👩‍💼👩‍💼
