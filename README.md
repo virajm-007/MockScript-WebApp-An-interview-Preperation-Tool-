@@ -9,7 +9,7 @@ I am delighted to announce the successful completion of Domain specific #mini_pr
 #technologies Used - HTML, CSS, JavaScript, NodeJS, Express JS, MongoDB, Chat GPT API 👨‍🔧👩‍🔧👨‍🔧
 
 #objective - Deploying the mock interview system and maintaining it over time, including managing updates and improvements, monitoring user feedback, and ensuring the system remains up-to-date with the latest interview trends and practices.💻👨‍💼💻👩‍💼
-                  Live Demo: https://drive.google.com/file/d/1WrOACA_mDUxOft0e7sc8zjv7nQQkEA2P/view
+                  
 
 Live Demo: https://drive.google.com/file/d/1WrOACA_mDUxOft0e7sc8zjv7nQQkEA2P/view
 
