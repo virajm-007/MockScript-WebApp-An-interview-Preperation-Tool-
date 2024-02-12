@@ -2,7 +2,7 @@
 
 <!-- 🚀 An #interview preparation #webApplication we named it as - "MockScript" ! 🎉 -->
 
-I am delighted to announce the successful completion of Domain specific #mini_project (semester 6) which I had the privilege to #work! 🌐✨
+I am delighted to announce the successful completion of Domain specific #mini_project (semester 6) which I had the privilege to #work! 🌐
 
 #Problem_Identification - MockScript aims to address the common problem that many job seekers face that is lack of experience and confidence in interviewing. Often, job seekers may have the necessary qualifications but struggle to articulate their strengths and effectively answer interview question. 👨‍💼👨‍💼👩‍💼👩‍💼
 
